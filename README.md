@@ -2,7 +2,7 @@
 
 I build zero-trust access and identity infrastructure in Go, and run it in production on hardware we own.
 
-Founder & CTO of [HexxLock](https://hexxlock.com), a two-person company. Before that, three years at Mildata Savunma building a military intelligence platform used by the Turkish Ministry of National Defense and Naval Forces Command and licensed to every university in Türkiye through TÜBİTAK ULAKBİM. I write production Go, Rust and C#/.NET, and I run the Kubernetes platform, the network and the identity layer underneath them. Several of the pieces are open source.
+Founder & CTO of [HexxLock](https://hexxlock.com), a two-person company. Before that, three years building a defense-sector intelligence platform used nationally in Türkiye. I write production Go, Rust and C#/.NET, and I run the Kubernetes platform, the network and the identity layer underneath them. Several of the pieces are open source.
 
 ### Open source
 
