@@ -2,7 +2,7 @@
 
 I build zero-trust access and identity infrastructure and run it in production on hardware we own. I work across the stack in Go, Rust, C/C++, C#/.NET, Python, TypeScript and Bash, and pick whichever fits the job.
 
-Founder & CTO of [HexxLock](https://hexxlock.com), a two-person company. Before that, three years building a defense-sector intelligence platform used nationally in Türkiye. I run the Kubernetes platform, the network and the identity layer underneath them. Several of the pieces are open source.
+Founder & CTO of [HexxLock](https://hexxlock.com), a two-person company. I have spent seven years in defense-sector software, including an intelligence platform used nationally in Türkiye. I run the Kubernetes platform, the network and the identity layer underneath them. Several of the pieces are open source.
 
 ### Open source
 
